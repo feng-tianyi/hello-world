@@ -18,7 +18,7 @@
     'main main main'
 }
 
-@media screen and (max-width: 430px) {
+@media screen and (max-width: 730px) {
   .parent-About {
     grid-template-columns: auto;
     grid-template-rows: minmax(40px, auto) minmax(30px, auto) auto auto auto;
