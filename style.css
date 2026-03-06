@@ -39,10 +39,11 @@
     "border"
     "main"
   }
-  .header, nav {
+  .header.nav {
     text-align: center;
     justify-self: center;
     align-self: center;
+    padding: 15px 0;
   }
   .nav a {
     margin: 0 10px;
